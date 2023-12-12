@@ -1,16 +1,22 @@
 # climate_hero
 
-A new Flutter project.
+Mobile App that is dedicated to climate change and environmental action.
 
-## Getting Started
+# what climate_hero offers
 
-This project is a starting point for a Flutter application.
+Explore a world of environmental action with Climate Hero. 
+Discover crucial information, take on eco-responsible challenges, participate in community events and follow news related to climate change.
+Join a global community committed to fighting climate change. Climate Hero facilitates the coordination of actions, events and provides informative articles. 
+Take part in environmental challenges, consult the latest events and stay informed on current issues.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### DEV Dependencies
+  animated_splash_screen
+  cupertino_icons
+  dio
+  flutter
+  flutter_bloc
+  shared_preferences
+  smooth_page_indicator
+  flutter_launcher_icons
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
